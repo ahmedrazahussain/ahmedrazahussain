@@ -3,7 +3,6 @@
 - Machine learning
 - computer Vision
 - 🌱 I’m currently learning:
-- OpenCV
 - Deep Learning with Python
 - YOLOV8
 - 💞️ I’m looking to collaborate on:
